@@ -6,10 +6,10 @@ import { projects } from '../assets/assets'
 const Projects = () => {
   return (
     <motion.div
-    initial={{opacity:0 , y:50}}
+    initial={{opacity:1 , y:0}}
     whileInView={{opacity:1 , y:0}}
     transition={{duration:1, ease:'easeOut'}}
-    viewport={{once:false,amount:0.2}}
+    viewport={{once:true,amount:0.1}}
     id='projects'
     className='py-20 bg-dark-200'
     >
