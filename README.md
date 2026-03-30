@@ -38,7 +38,7 @@ portfolio/
 
 ## 🖼️ Screenshots
 
-(Add screenshots of your portfolio here)
+![Home page](assets/myhomepage.png)
 
 ## 🙋‍♂️ About Me
 
