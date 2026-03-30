@@ -1,21 +1,52 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive **Portfolio Website** built using **React.js** and **Tailwind CSS** to showcase my skills, projects, and experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 (Add your deployed link here)
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* ⚡ Fully Responsive Design (Mobile, Tablet, Desktop)
+* 🎨 Modern UI with Tailwind CSS
+* 🧩 Reusable React Components
+* 🌙 Clean and Minimal Layout
+* 📂 Projects Showcase Section
+* 📞 Contact Section
+* 💼 About & Skills Section
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# My_Portfolio
-My personal portfolio showcasing my projects, skills, and experience.
->>>>>>> ac00d8d97868b87121df9773011c46cf1de8831b
+* **Frontend:** React.js
+* **Styling:** Tailwind CSS
+* **Deployment:** (GitHub Pages)
+
+## 📁 Folder Structure
+
+```
+portfolio/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.js
+│   └── index.js
+│── package.json
+```
+
+## 🖼️ Screenshots
+
+(Add screenshots of your portfolio here)
+
+## 🙋‍♂️ About Me
+
+Hi, I'm (Himanshu Nagar), a passionate Frontend Developer who loves building responsive and user-friendly web applications.
+
+## 📬 Contact
+
+* Email: [himanshunagar2525@gmail.com]
+* LinkedIn: (www.linkedin.com/in/himanshu-nagar2525)
+
+
