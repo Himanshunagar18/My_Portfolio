@@ -35,6 +35,15 @@ portfolio/
 │   └── index.js
 │── package.json
 
+## 🖼️ Screenshots
+
+![Home Page](assets/myhomepage.png)
+![About Page](assets/myaboutmepage.png)
+![skills Page](assets/myskillspage.png)
+![Projects Page](assets/myprojectpage.png)
+![Contact Page](assets/mycontactmepage.png)
+![Footer Page](assets/myfooterpage.png)
+
 ## 🙋‍♂️ About Me
 
 Hi, I'm (Himanshu Nagar), a passionate Frontend Developer who loves building responsive and user-friendly web applications.
