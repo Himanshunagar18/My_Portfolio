@@ -34,11 +34,6 @@ portfolio/
 │   ├── App.js
 │   └── index.js
 │── package.json
-```
-
-## 🖼️ Screenshots
-
-![Home page](assets/myhomepage.png)
 
 ## 🙋‍♂️ About Me
 
