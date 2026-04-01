@@ -10,7 +10,7 @@ const Hero = () => {
         transition={{duration:0.6 , ease:'easeOut'}}
         viewport={{once:true}}
         id='home'
-        className='min-h-screen flex items-center pt-20 pb-16 bg=gradient-to-r from-gray-900 via-gray-800 to-gray-900'
+        className='min-h-screen flex items-center pt-20 pb-16 bg-linear-to-r from-gray-900 via-gray-800 to-gray-900'
         >
             <div className='container mx-auto px-6 flex flex-col md:flex-row items-center justify-between'>
                 {/* left side contant */}
@@ -23,8 +23,8 @@ const Hero = () => {
                         I create modern and responsive websites using the latest front-end technologies.
                     </p>
                     <div className='flex space-x-4'>
-                        <a href='#projects' className='px-6 py-3 bg-purple-400 rounded-lg font-medium hover:bg-purple-700 transition duration-300'>View Work</a>
-                        <a href='#contact' className='px-6 py-3 border border-purple-400 rounded-lg font-medium hover:bg-purple-700 transition decoration-purple-300'>Contact Me</a>
+                        <a onClick={() => document.getElementById('projects').scrollIntoView({ behavior: 'smooth' })} className='px-6 py-3 bg-purple-400 rounded-lg font-medium hover:bg-purple-700 transition duration-300'>View Work</a>
+                        <a onClick={() => document.getElementById('contact').scrollIntoView({ behavior: 'smooth' })} className='px-6 py-3 border border-purple-400 rounded-lg font-medium hover:bg-purple-700 transition decoration-purple-300'>Contact Me</a>
                     </div>
                 </div>
 
